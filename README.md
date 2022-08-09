@@ -1,4 +1,4 @@
-This repo contains a Dockerfile, so you can execute my code though docker.
+This repo contains a Dockerfile, so you can execute my code via docker.
 
 To build the Docker image, run the following command from the root of this repo:
 ```shell
