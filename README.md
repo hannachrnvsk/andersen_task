@@ -11,7 +11,7 @@ docker run -ti charniauskaya_test python task_1.py
 ```
 
 To check second task run the following command: 
-'''shell
+```shell
 docker run -ti charniauskaya_test python task_2.py
 ```
 
