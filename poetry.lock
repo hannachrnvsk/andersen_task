@@ -1,0 +1,27 @@
+[[package]]
+name = "docopt"
+version = "0.6.2"
+description = "Pythonic argument parser, that will make you smile"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "gitignore"
+version = "0.0.8"
+description = "gitignore command generates .gitingore files from the command line."
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+docopt = ">=0.6.2"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "5f0a90fd83cadaeef5ccd92e184d507654a9e5a1c15aac51645ac88ec42b8b97"
+
+[metadata.files]
+docopt = []
+gitignore = []
