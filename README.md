@@ -15,12 +15,12 @@ To check second task run the following command:
 docker run -ti charniauskaya_test python task_2.py
 ```
 
-To check third task run the following command: 
+To check third task (where arrays are generated automatically) run the following command: 
 ```shell
 docker run -ti charniauskaya_test python task_3.py
 ```
 
-To check another version of third task run the following command: 
+To check another version of third task (where user input needed) run the following command: 
 ```shell
 docker run -ti charniauskaya_test python task_3_second_version.py
 ```
